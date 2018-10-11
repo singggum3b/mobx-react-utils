@@ -1,0 +1,24 @@
+{
+	"name": "mobx-react-utils",
+	"version": "1.0.0",
+	"description": "Mobx react utilities",
+	"main": "./dist",
+	"scripts": {
+		"test": "exit 0",
+		"build": "tsc --outDir ./dist --declaration"
+	},
+	"keywords": [
+		"mobx",
+		"react",
+		"util"
+	],
+	"peerDependencies": {
+		"react": "*",
+		"@types/react": "*"
+	},
+	"devDependencies": {
+		"typescript": "^3.1.2"
+	},
+	"author": "singgum3b@gmail.com",
+	"license": "MIT"
+}
