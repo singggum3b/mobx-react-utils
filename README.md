@@ -2,7 +2,7 @@
 
 > Utilities often needed for react-mobx development
 
-[![NPM Version][npm-image]][npm-url]
+[![NPM Version][npm-image]][https://www.npmjs.com/package/mobx-react-utils]
 
 ## Install
 
