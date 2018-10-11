@@ -1,6 +1,6 @@
 {
 	"name": "mobx-react-utils",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Mobx react utilities",
 	"repository": "git@github.com:singggum3b/mobx-react-utils.git",
 	"main": "./dist",
