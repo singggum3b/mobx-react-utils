@@ -1,3 +1,4 @@
+import * as React from "react";
 const DISPOSER_SYMBOL = Symbol("disposerList");
 
 export interface IReactClass extends React.Component<any> {

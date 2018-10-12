@@ -1,6 +1,6 @@
 {
 	"name": "mobx-react-utils",
-	"version": "1.0.2",
+	"version": "1.1.0",
 	"description": "Mobx react utilities",
 	"repository": "git@github.com:singggum3b/mobx-react-utils.git",
 	"typings": "./dist/index.d.ts",
@@ -16,10 +16,14 @@
 	],
 	"peerDependencies": {
 		"react": "*",
-		"@types/react": "*"
+		"@types/react": "*",
+		"tslib": "*"
 	},
 	"devDependencies": {
-		"typescript": "^3.1.2"
+		"typescript": "^3.1.2",
+		"tslib": "*",
+		"react": "^16.5.2",
+		"@types/react": "^16.4.16"
 	},
 	"author": "singgum3b@gmail.com",
 	"license": "Apache 2.0"
