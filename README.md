@@ -2,7 +2,7 @@
 
 > Utilities often needed for react-mobx development
 
-[![NPM Version][npm-image]][https://www.npmjs.com/package/mobx-react-utils]
+[![npm](https://img.shields.io/npm/v/mobx-react-utils.svg)](https://www.npmjs.com/package/mobx-react-utils)
 
 ## Install
 
@@ -43,11 +43,4 @@ public componentDidMount(): void {
 
 ## License
 
-[MIT](http://vjpr.mit-license.org)
-
-[npm-image]: https://img.shields.io/npm/v/live-xxx.svg
-[npm-url]: https://npmjs.org/package/live-xxx
-[travis-image]: https://img.shields.io/travis/live-js/live-xxx/master.svg
-[travis-url]: https://travis-ci.org/live-js/live-xxx
-[coveralls-image]: https://img.shields.io/coveralls/live-js/live-xxx/master.svg
-[coveralls-url]: https://coveralls.io/r/live-js/live-xxx?branch=master
+Apache license 2.0
